@@ -1,0 +1,16 @@
+{
+  "name": "ractjs-dio",
+  "version": "1.0.0",
+  "description": "<br>\r   <div align=\"center\">\r     <table>\r       </tr>\r             <td>\r                 <a  href=\"https://www.linkedin.com/in/robinsonbrz/\">\r                 Idéia e deploy por Robinson Enedino\r             </td>\r         <td>\r             <a  href=\"https://www.linkedin.com/in/robinsonbrz/\">\r             <img src=\"https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/linkedin.png\" width=\"30\" height=\"30\">\r         </td>\r         <td>\r             <a  href=\"https://www.linkedin.com/in/robinsonbrz/\">\r             <img  src=\"https://avatars.githubusercontent.com/u/18150643?s=96&amp;v=4\" alt=\"@robinsonbrz\" width=\"30\" height=\"30\">\r         </td>\r         <td>\r             <a href=\"mailto:robinsonbrz@gmail.com\">\r             <img src=\"https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/gmail.png\" width=\"30\" height=\"30\" ></a>\r         </td>\r       </tr>\r     </table>\r   </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^3.0.1"
+  }
+}
