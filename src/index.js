@@ -6,7 +6,7 @@ const App = () => {
 
     return (
         <div clasName="App">
-            New function 
+            Hello World    
         </>
     )
 }
