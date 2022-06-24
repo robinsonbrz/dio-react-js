@@ -5,7 +5,7 @@ import {Perfil, Bio, LinkLinKedin} from './perfil.js'
 function App() {
     return (
     <div>
-        <Perfil meuNome="Robinson Enedino" arquivoFoto='./rob.JPG'/>
+        <Perfil meuNome="Robinson Enedino" arquivoFoto='./Rob.JPG'/>
         <br />
         <Bio />
         <br /><br />
