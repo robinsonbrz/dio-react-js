@@ -1,25 +1,16 @@
-import logo from './logo.svg';
+
 import './App.css';
+import {Perfil, Bio, LinkLinKedin} from './perfil.js'
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+    <div>
+        <Perfil meuNome="Robinson Enedino" arquivoFoto='./rob.JPG'/>
+        <br />
+        <Bio />
+        <br /><br />
+        <LinkLinKedin />
+    </div>);
 }
 
 export default App;
