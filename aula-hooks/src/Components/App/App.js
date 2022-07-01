@@ -1,28 +1,20 @@
-import logo from './logo.svg';
+
 import './App.css';
+
+// importando o component Counter e em seguida utilizando:  
+// <Counter/> dentro da função App
+import Counter from '../Counter/Counter';
+
 
 function App() {
     return (
-        <div className="App">
+        <>
             <h1>Robinson Enedino</h1>
-        <header className="App-header">
-            <img src={logo} className="App-logo" alt="logo" />
             <p>
                 Olá mundo!!!
             </p>
-            <p>
-            Edit <code>src/App.js</code> and save to reload.
-            </p>
-            <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-            >
-            Learn React
-            </a>
-        </header>
-        </div>
+            <Counter/>
+        </>
     );
 }
 
