@@ -1,5 +1,5 @@
-# Título do Projeto
-##  Breve descrição do projeto
+# Aulas de React Dio.me
+##  Vários mini projetinhos com exercícios das aulas de React.js
 
 <br>
   <div align="center">
@@ -7,7 +7,7 @@
       </tr>
             <td>
                 <a  href="https://www.linkedin.com/in/robinsonbrz/">
-                Idéia e deploy por Robinson Enedino
+                Aulas Dio.me digitação e pequenas adaptações por Robinson Enedino
             </td>
         <td>
             <a  href="https://www.linkedin.com/in/robinsonbrz/">
@@ -30,14 +30,8 @@ Visite meu WebSite [https://www.enedino.com.br](https://www.enedino.com.br)
 
 ## Objetivo:
 
-Lista dos objetivos
+Aprender e consolidar conhecimentos de React.js das aulas Dio.me
 
-
-
-# Próximas features 
-
-
-## Utilização do programa 
 
 <br>
 _______________________
