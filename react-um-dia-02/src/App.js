@@ -8,7 +8,7 @@ function App() {
         <Perfil meuNome="Robinson Enedino" arquivoFoto='./Rob.JPG'/>
         <br />
         <Bio />
-        <br /><br />
+        <br />
         <LinkLinKedin />
     </div>);
 }
